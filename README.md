@@ -45,6 +45,3 @@ It is designed to provide fast and reliable emergency response in remote or netw
 - Medical alert notification
 - Data logging for accident analysis
 - Integration with emergency services
-
-
-## 📜 Licensepurposes.
